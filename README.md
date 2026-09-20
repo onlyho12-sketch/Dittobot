@@ -1,6 +1,6 @@
 # Robot Skill System MVP
 
-[![시연 영상](docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/Dittobot/releases/download/demo/demo.mp4)
+[![시연 영상](docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/Dittobot/releases/download/demo/dittobot.mp4)
 
 <sub>▶ 이미지를 클릭하면 시연 영상(55초)을 볼 수 있습니다.</sub>
 
