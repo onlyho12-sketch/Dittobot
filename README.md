@@ -1,5 +1,9 @@
 # Robot Skill System MVP
 
+[![시연 영상](docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/Dittobot/releases/download/demo/demo.mp4)
+
+<sub>▶ 이미지를 클릭하면 시연 영상(55초)을 볼 수 있습니다.</sub>
+
 ## 실제 장치 실행: 터미널 2개
 
 아래 명령은 이 워크스테이션의 Doosan M0609(`192.168.1.100`), ROS namespace `dsr01`,
